@@ -4,7 +4,7 @@
     <main class="container mx-auto p-4 mt-8">
       <div class="flex flex-col md:flex-row gap-20">
         <WordList :words="words" />
-        <SyllablesGrid :syllables="syllables" />
+        <SyllablesGrid :syllables="syllables" :solutions="solutions" />
       </div>
     </main>
   </div>
