@@ -23,13 +23,37 @@ const words = [
   { text: 'dare', points: 2 },
   { text: 'daredevils', points: 8 },
   { text: 'devils', points: 2 },
-  { text: 'foils', points: 2 }
+  { text: 'foils', points: 2 },
 ];
 
 const syllables = [
-  'fo', 'ery', 'tish', 'on',
-  'nce', 'et', 'ath', 'tan',
-  'ffo', 'le', 'bu', 'per',
-  'bre', 'rma', 'ss', 'dil'
+  'che',
+  'extr',
+  'gu',
+  'for',
+  'lan',
+  'ing',
+  'gan',
+  'eb',
+  'clo',
+  'ne',
+  'hyd',
+  'ese',
+  'th',
+  'ous',
+  'ro',
+  'pla',
+  'or',
+  'za',
+  'ava',
+  'od',
+];
+
+const solutions = [
+  { word: 'cheesecloth', syllables: ['che', 'ese', 'clo', 'th'] },
+  { word: 'extravaganza', syllables: ['extr', 'ava', 'gan', 'za'] },
+  { word: 'foreboding', syllables: ['for', 'eb', 'od', 'ing'] },
+  { word: 'languorous', syllables: ['lan', 'gu', 'or', 'ous'] },
+  { word: 'hydroplane', syllables: ['hyd', 'ro', 'pla', 'ne'] },
 ];
 </script>
