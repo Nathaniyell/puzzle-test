@@ -50,10 +50,10 @@ const syllables = [
 ];
 
 const solutions = [
-  { word: 'cheesecloth', syllables: ['che', 'ese', 'clo', 'th'] },
+  { word: 'hydroplane', syllables: ['hyd', 'ro', 'pla', 'ne'] },
   { word: 'extravaganza', syllables: ['extr', 'ava', 'gan', 'za'] },
+  { word: 'cheesecloth', syllables: ['che', 'ese', 'clo', 'th'] },
   { word: 'foreboding', syllables: ['for', 'eb', 'od', 'ing'] },
   { word: 'languorous', syllables: ['lan', 'gu', 'or', 'ous'] },
-  { word: 'hydroplane', syllables: ['hyd', 'ro', 'pla', 'ne'] },
 ];
 </script>
